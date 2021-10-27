@@ -8,3 +8,9 @@ pyproj
 rasterio
 shapely
 Geopandas
+
+
+
+- geotiff (raster)
+- shapefile (vector > polygons)
+- 
