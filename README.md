@@ -27,14 +27,16 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 
 ### Challenges
 
-* research required to understand how to handle geospatial data, such as handling raster and vector data structures and their attributes (e.g. for raster data - bands and for vector data - polygon extent) and metadata, such as: coordinate reference systems (CRS), EPSG., ...
+* research required to understand how to handle geospatial data, such as handling raster and vector data structures and their attributes (e.g. bands (in rasters) and polygon extent (for vectors)) and metadata such as: coordinate reference systems (CRS), EPSG, ...
 * research and use of the Python libraries for handling geospatial data and plotting a 3D model
 
 ### Limitations
+
 * limited time to deliver the project
 * outdated data available for the region of Flanders - DSM and DTM files available for the region were created in 2014, therefore it is not possible to plot a model of any building created afterwards. 
 
 ### Further Developments
+
 * organizing the code into Classes
 * improving the efficiency of the code (currently it takes a few minutes to retrieve information from the DSM and DTM files)
 * extending the search area to the whole country of Belgium
