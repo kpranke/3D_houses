@@ -3,7 +3,7 @@
 1. [Description](#description)
 1. [Objectives](#objectives)
 	1. [Challenges](#challenges)
-	2. [Limitations](#limiatations)
+	2. [Limitations](#limitations)
 	3. [Further developments](#further-developments)
 1. [Repo Architecture](#repo-architecture)
 1. [Installation](#installation)
