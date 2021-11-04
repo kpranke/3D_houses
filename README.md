@@ -13,7 +13,7 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 - to be able to render a 3D plot
 - to be able to present a final product
 
-###Challenges
+### Challenges
 
 ### Limitations
 
