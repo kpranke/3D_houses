@@ -42,13 +42,12 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 
 ## Repo Architecture
 
-3D House Project
-
 * **README.md**          : explains the project
 * **requirements.txt**   : lists libraries installed in the environment in which the project was created 
 * **main.py**            : Python script file with the add plotting a 3D Canopy Height Model of a house for the provided address in Flanders, Belgium.
 * **retrieve_bounds.py** : Python script file necessary to create a .csv file containing bounds of 43 GeoTIFF files storing geospatial information of the Flanders region of Belgium as well as links to the respective DSM and DTM files available in a zippped folders on the [Geopunt.be](https://www.geopunt.be/) website (it is not necessary to rerun this file as the product of it DTM_bounds.csv file is provided in the repo and main.py is accessing it directly)
 * **DTM_bounds.csv**     : .csv file, which stores info containing bounds of 43 GeoTIFF files storing geospatial information of the Flanders region of Belgium as well as links to the respective DSM and DTM files available in a zippped folders on the [Geopunt.be](https://www.geopunt.be/) website.
+* **Visuals**            : Opdrachtzones DHM-Vlaanderen II_2.jpg and 3DHouse_example.png are two visuals included in the README.md
 
 ## Installation
 
