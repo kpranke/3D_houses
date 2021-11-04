@@ -1,8 +1,10 @@
 # 3D House Project
 ## Table of Contents
-[Description](#description)
-[Objectives](#objectives)
-[Getting Started](#getting-started)
+1. [Description](#description)
+1. [Objectives](#objectives)
+	1. [Challenges](#challenges)
+	2. [Limitations](#limiatations)
+	3. [Further developments](#further-developments)
 [About the Project](#about-the-project)
 [Project Status](#project-status)
 [Personal situation](#personal-situation)
