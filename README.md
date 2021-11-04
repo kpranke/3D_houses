@@ -1,11 +1,11 @@
 # 3D House Project
 ## Table of Contents
-[About the Project](#about-the-project)
-[Project Status](#project-status)
+[Description](#description)
+[Objectives](#objectives)
 [Getting Started](#getting-started)
 [About the Project](#about-the-project)
 [Project Status](#project-status)
-[Getting Started](#getting-started)
+[Personal situation](#personal-situation)
 
 ## Description
 This project is a part of the Becode.org AI Bootcamp programme. The goal is to produce a 3D plot of a house situated in Flanders, Belgium with only the address of the house provided.
