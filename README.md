@@ -57,7 +57,7 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 
 ## Usage
 
-To use the program, run 'python main.py' in your environment via the command line. The program will ask you to provide a valid address for a house in Flanders, Belgium. Your input should be in the following order: <street><house number>, <postcode><municipality> (the same format is used, e.g. by Google Maps). The output is a Canopy Height Model (CHM) of a given house plotted with Plotly. The whole process may take a few minutes.
+To use the program, run 'python main.py' in your environment via the command line. The program will ask you to provide a valid address for a house in Flanders, Belgium. Your input should be in the following order: street house_number, postcode municypality (the same format is used, e.g. by Google Maps). The output is a Canopy Height Model (CHM) of a given house plotted with Plotly. The whole process may take a few minutes.
 
 
 ## Visuals
