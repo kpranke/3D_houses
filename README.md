@@ -27,7 +27,7 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 
 ### Challenges
 
-* research required to understand how to handle geospatial data, such as handling raster and vector data structures and their attributes (e.g. bands (in rasters) and polygon extent (for vectors) and metadata such as: coordinate reference systems (CRS), EPSG, ...
+* research required to understand how to handle geospatial data, such as handling raster and vector data structures and their attributes, for example, bands (in rasters) and polygon extent (for vectors) as well as metadata such as: coordinate reference systems (CRS), EPSG, ...
 * research and use of the Python libraries for handling geospatial data and plotting a 3D model
 
 ### Limitations
