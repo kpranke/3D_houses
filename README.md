@@ -1,4 +1,11 @@
 # 3D House Project
+## Table of Contents
+[About the Project](#about-the-project)
+[Project Status](#project-status)
+[Getting Started](#getting-started)
+[About the Project](#about-the-project)
+[Project Status](#project-status)
+[Getting Started](#getting-started)
 
 ## Description
 This project is a part of the Becode.org AI Bootcamp programme. The goal is to produce a 3D plot of a house situated in Flanders, Belgium with only the address of the house provided.
@@ -25,9 +32,10 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 
 │
 │   README.md      :explains the project
-│   main.py        :Python script file necessary the Canopy Height Model of a house for the given address in Flanders, Belgium.
-│   retrieve_bounds.py : Python script file necessary to create a .csv file containing bounds of 43 GeoTIFF files storing geospatial information on the Flanders region of Belgium as well as links to the respective DSM and DTM files available in a zippped folders on the [Geopunt.be](https://www.geopunt.be/) website. 
-│   
+│   requirements.txt : lists libraries installed in the environment in which the project was created 
+│   main.py        :Python script file with the add plotting a 3D Canopy Height Model of a house for the provided address in Flanders, Belgium.
+│   retrieve_bounds.py : Python script file necessary to create a .csv file containing bounds of 43 GeoTIFF files storing geospatial information of the Flanders region of Belgium as well as links to the respective DSM and DTM files available in a zippped folders on the [Geopunt.be](https://www.geopunt.be/) website. 
+│   DTM_bounds.csv  : a .csv file, which stores info containing bounds of 43 GeoTIFF files storing geospatial information of the Flanders region of Belgium as well as links to the respective DSM and DTM files available in a zippped folders on the [Geopunt.be](https://www.geopunt.be/) website.
 │   
 │   
 │__   
@@ -53,3 +61,5 @@ Run `terieve_bounds.py` file first.
 ## Personal situation
 
 I am currently participating in the Becode.org AI Bootcamp to upskill into a career in data science.
+
+**[Back to top](#table-of-contents)**
