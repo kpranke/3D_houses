@@ -27,7 +27,7 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 
 ### Challenges
 
-* researching required to understand how to handle geospatial data, such as handling raster and vector data structures and their attributes (e.g. for raster data - bands and for vector data - polygon extent) and metadata, such as: coordinate reference systems (CRS), EPSG., ...
+* research required to understand how to handle geospatial data, such as handling raster and vector data structures and their attributes (e.g. for raster data - bands and for vector data - polygon extent) and metadata, such as: coordinate reference systems (CRS), EPSG., ...
 * research and use new Python libraries for handling geospatial data and plotting a 3D model
 
 ### Limitations
@@ -37,7 +37,7 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 ### Further Developments
 * organizng the code into Classes
 * improving the efficiency of the code (currently it takes a few minutes to retrieve information from the DSM and DTM files)
-* extending the search area to the whole area of belgium
+* extending the search area to the whole area of Belgium
 * improving the 3D plot
 
 ## Repo Architecture
