@@ -47,7 +47,7 @@ This project is a part of the Becode.org AI Bootcamp programme. The goal is to p
 Run `terieve_bounds.py` file first.
 
 ## Visuals
-[3d house model example](3DHouse_example.png)
+![3d house model example](3DHouse_example.png)
 ## Timeline
 
 ## Personal situation
