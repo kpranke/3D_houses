@@ -5,9 +5,12 @@
 	1. [Challenges](#challenges)
 	2. [Limitations](#limiatations)
 	3. [Further developments](#further-developments)
-[About the Project](#about-the-project)
-[Project Status](#project-status)
-[Personal situation](#personal-situation)
+1. [Repo Architecture](#repo-architecture)
+1. [Installation](#installation)
+1. [Usage](#usage)
+1. [Visuals](#visuals)
+1. [Timeline](#timeline)
+1. [Personal situation](#personal-situation)
 
 ## Description
 This project is a part of the Becode.org AI Bootcamp programme. The goal is to produce a 3D plot of a house situated in Flanders, Belgium with only the address of the house provided.
