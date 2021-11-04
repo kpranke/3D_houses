@@ -10,10 +10,12 @@ from rasterio.mask import mask
 import plotly.graph_objects as go
 
 # Input a valid address in Flanders:
-#address = input('Provide a valid address in Flanders: ')
 
-address = 'Epicealaan 28, 2910 Essen'
+address = input('Provide a valid address in Flanders: ')
+#address = 'Epicealaan 28, 2910 Essen'
+
 print(f'Searching info for: {address}')
+
 # Get a polygoon based on address in Flanders:
 
 def get_coordinates(address: str):
