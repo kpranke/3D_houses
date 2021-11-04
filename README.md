@@ -60,7 +60,7 @@ To use the program, run 'python main.py' in your environment via the command lin
 
 
 ## Visuals
-Picture showing how the area of Belgium is divided into 43 DTM and DSM files
+Picture showing how the area of Belgium is divided into 43 DTM and DSM files ([source](https://overheid.vlaanderen.be/dhm-digitaal-hoogtemodel-vlaanderen-ii))
 ![DTM and DSM](https://github.com/kpranke/3D_houses/blob/main/Opdrachtzones%20DHM-Vlaanderen%20II_2.jpg)	
 	
 Example of a plotted 3d model of a house: 
