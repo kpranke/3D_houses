@@ -83,16 +83,17 @@ w.record('polygon1')
 
 w.close()
 
-polygon_path = 'polygon.shp'
 
 # Clip DSM and DTM files with rasterio:
 
 def clip_geotiff(file):
-    with fiona.open("C:/Users/kasia/pyproj/3D_houses/shapefiles/polygon.shp", "r") as shapefile:
+    with fiona.open("polygon.shp", "r") as shapefile:
         shapes = [feature["geometry"] for feature in shapefile]
 
     with rasterio.open(file) as src:
         return rasterio.mask.mask(src, shapes, crop=True)
+
+polygon_path = 'polygon.shp'        
 
 
 dsm_clip = clip_geotiff(right_dsm_url)
