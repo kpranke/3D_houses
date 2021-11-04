@@ -60,7 +60,7 @@ To use the program, run 'python main.py' in your environment via the command lin
 
 
 ## Visuals
-This is an example of a plotted 3d model of a house: 
+Example of a plotted 3d model of a house: 
 
 ![3d house model example](3DHouse_example.png)
 
