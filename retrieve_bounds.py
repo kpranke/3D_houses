@@ -31,8 +31,8 @@ for i in updated_list:
     })
     print(f"Added bounds of DTM file {i}")
 
-#Create a data frame:
+#Create a data frame from dictionary:
 DTM_bounds_df = pd.DataFrame.from_dict(DTM_bounds)
 
-# Save as .csv: 
+# Save the data frame as .csv: 
 DTM_bounds_df.to_csv('DTM_bounds.csv', encoding='utf-8', index=False)    
