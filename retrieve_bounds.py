@@ -1,7 +1,8 @@
-
+# Import libraries:
 import rasterio
 import pandas as pd
 
+# Create a list ranging from 01 to 43:
 list_43 = list(range(1,44))
 updated_list = []
 for i in list_43:
@@ -9,7 +10,7 @@ for i in list_43:
     i = i.zfill(2)
     updated_list.append(i)
 
-
+# Create a list of dictionaries with the following info: DTM file URL, DSM file URL, bounds - left, bounds - right, bounds - top, bounds - bottom:
 DTM_bounds = []
 
 for i in updated_list:
@@ -29,6 +30,9 @@ for i in updated_list:
         'bottom' : DTM_file.bounds.bottom
     })
     print(f"Added bounds of DTM file {i}")
-    
+
+#Create a data frame:
 DTM_bounds_df = pd.DataFrame.from_dict(DTM_bounds)
+
+# Save as .csv: 
 DTM_bounds_df.to_csv('DTM_bounds.csv', encoding='utf-8', index=False)    
