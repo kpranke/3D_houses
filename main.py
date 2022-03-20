@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import rasterio
 import requests
-#import matplotlib.pyplot as plt
 from shapely.geometry import Polygon
 import shapefile
 import fiona
